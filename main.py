@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def main():
-    print('My first git program1')
+    print('My first git program2')
 
 
 if __name__ == '__main__':
